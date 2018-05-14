@@ -1,6 +1,5 @@
 # Pivotal Cloud Foundry (PCF) & Spring Workshop
-## Pivotal Software and Perficient St. Louis
-Join Pivotal for a hands-on workshop to introduce key concepts in modern cloud-native application development and delivery. This workshop will introduce concepts of cloud-native, Spring and .Net application development, container workload deployments with [Pivotal Cloud Foundry](https://pivotal.io/platform), as well as application monitoring with PCF Metrics and platform monitoring with PCF Healthwatch. The labs will leverage Spring Boot 2.0, Spring Actuator, Spring Cloud Data Flow for PCF, and other PCF 2.0 topics.
+Join Pivotal for a hands-on workshop to introduce key concepts in modern cloud-native application development and delivery. This workshop will introduce concepts of cloud-native, Spring and .Net application development, container workload deployments with [Pivotal Cloud Foundry](https://pivotal.io/platform), as well as application monitoring with PCF Metrics and platform monitoring with PCF Healthwatch. The labs will leverage Spring Boot 2.0, Spring Actuator, and other PCF 2.0 topics.
 
 ## Topics
 - PCF 2.0 with Pivotal Application Service (PAS) and Pivotal - Container Service (PKS) Overview
@@ -12,7 +11,7 @@ _This workshop is intended for: Managers, Architects, Developers, Operators and 
 ## Events of Interest
 - [SpringOne Tour by Pivotal](https://springonetour.io/), [St. Louis May 30-31 at T-Rex](https://springonetour.io/2018/st-louis). Cloud-Native Java From the Source: The SpringOne Tour brings the best Cloud-Native Java content from our flagship conference directly to you. In 2 days, you’ll learn about both traditional monolithic and modern, Cloud-Native Java from the source. Experience valuable facetime with expert Pivotal speakers in both traditional presentation and informal open space discussions about modern Application Development, DevOps, CI/CD, Cloud and more.
 - Stay informed for the [2018 SpringOne Platform by Pivotal](https://springoneplatform.io/) to be held in Sept. 24-27 in Washington, D.C.
-- Join Perficient and Pivotal at [Gateway to Innovation](https://www.g2iconference.com).  
+- Join Pivotal at [Gateway to Innovation](https://www.g2iconference.com).  
 Meet the team and hear from our clients at our co-sponsored session: [Unleash Innovation with Application Modernization](https://www.g2iconference.com/agenda/session/186985).  
 *Topic*: Find out how leading enterprise organizations are shifting their traditional business practices by leveraging cloud-based platforms to extend the value of legacy applications, accelerate speed to market, increase profits, and unleash innovation.  
 *With Speakers*: Vijay Sankaran (CIO, TD Ameritrade), Dormain Drewitz (Senior Director of Product and Customer Marketing, Pivotal), Steve Helms (Director of Enterprise Integration, First National Bank - FNBO), Mark Munsell (Deputy CIO, National Geospatial-Intelligence Agency - NGA)
