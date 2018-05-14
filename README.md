@@ -10,7 +10,7 @@ _This workshop is intended for: Managers, Architects, Developers, Operators and 
 
 ## Events of Interest
 - [SpringOne Tour by Pivotal](https://springonetour.io/), [St. Louis May 30-31 at T-Rex](https://springonetour.io/2018/st-louis). Cloud-Native Java From the Source: The SpringOne Tour brings the best Cloud-Native Java content from our flagship conference directly to you. In 2 days, you’ll learn about both traditional monolithic and modern, Cloud-Native Java from the source. Experience valuable facetime with expert Pivotal speakers in both traditional presentation and informal open space discussions about modern Application Development, DevOps, CI/CD, Cloud and more.
-- Stay informed for the [2018 SpringOne Platform by Pivotal](https://springoneplatform.io/) to be held in Sept. 24-27 in Washington, D.C.
+- Stay informed for the [2018 SpringOne Platform by Pivotal](https://springoneplatform.io/) , use discount code: S1P200_SSahadevan  for a $200 discount , to be held in Sept. 24-27 in Washington, D.C.
 - Join Pivotal at [Gateway to Innovation](https://www.g2iconference.com).  
 Meet the team and hear from our clients at our co-sponsored session: [Unleash Innovation with Application Modernization](https://www.g2iconference.com/agenda/session/186985).  
 *Topic*: Find out how leading enterprise organizations are shifting their traditional business practices by leveraging cloud-based platforms to extend the value of legacy applications, accelerate speed to market, increase profits, and unleash innovation.  
@@ -58,8 +58,8 @@ Start by downloading and installing the appropriate prerequisite tools.
 Next, download the course materials.  This can be accomplished either through the GitHub website by downloading a repository zip and unzipping locally, or if you have Git installed, use the following commands:
 
 ```
-$ git clone https://github.com/cbusch-pivotal/pivotal-perficient-stl-workshop
-$ cd pivotal-perficient-stl-workshop/
+$ git clone https://github.com/ssahadevan-pivotal/ss-pcf-workshop.git
+$ cd ss-pcf-workshop/
 ```
 
 **PCF Environments**
