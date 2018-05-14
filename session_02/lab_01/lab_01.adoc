@@ -25,7 +25,7 @@ Follow the prompts, choosing default organization and space.
 . Change to the _Attendees_ sample application directory:
 +
 ----
-$ cd $COURSE_HOME/session_04/attendees
+$ cd $COURSE_HOME/session_02/attendees
 ----
 
 . Using the Maven Wrapper, build and package the application:
@@ -47,7 +47,7 @@ You should see output similar to the following listing. Take a look at the listi
 +
 ====
 ----
-Using manifest file /Users/pivotal/cbusch/pivotal-perficient-stl-workshop/session_04/attendees/manifest.yml <1>
+Using manifest file /Users/pivotal/cbusch/pivotal-perficient-stl-workshop/session_02/attendees/manifest.yml <1>
 
 Creating app attendees in org workshop / space instructor as cbusch@pivotal.io...
 OK <2>
@@ -59,7 +59,7 @@ Binding attendees-hippest-shaman.cfapps.io to attendees...
 OK <4>
 
 Uploading attendees... <5>
-Uploading app files from: /Users/pivotal/cbusch/pivotal-perficient-stl-workshop/session_04/attendees/target/attendees-0.0.1.jar
+Uploading app files from: /Users/pivotal/cbusch/pivotal-perficient-stl-workshop/session_02/attendees/target/attendees-0.0.1.jar
 Uploading 569.7K, 90 files
 Done uploading
 OK
@@ -128,4 +128,4 @@ Be sure to click on the ``information icon'' in the top right-hand corner of the
 This gives you important information about the state of the currently running _Attendees_ instance, including what Spring Profiles are turned on and what Cloud Foundry services are bound.
 It will become important in the next lab!
 
-link:/README.md#course-materials[Course Materials home] | link:/session_04/lab_02/lab_02.adoc[Lab 2 - Binding to Cloud Foundry Services]
+link:/README.md#course-materials[Course Materials home] | link:/session_02/lab_02/lab_02.adoc[Lab 2 - Binding to Cloud Foundry Services]
