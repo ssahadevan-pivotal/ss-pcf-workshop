@@ -23,7 +23,7 @@ There are also many features added to your application out-of-the-box for managi
 == Run the empty service
 For starters, here's an empty Spring MVC application.
 
-In your favorite IDE, open the directory `session_05/lab_04/initial`, or in a command prompt, change directories to `session_05/lab_04/initial`. This is an empty HelloWorldApplication java app.
+In your favorite IDE, open the directory `session_03/lab_04/initial`, or in a command prompt, change directories to `session_03/lab_04/initial`. This is an empty HelloWorldApplication java app.
 
 View the `src/main/java/hello/HelloWorldApplication.java` file to find the below contents.
 
