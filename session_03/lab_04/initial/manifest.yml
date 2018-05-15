@@ -4,4 +4,6 @@ applications:
   random-route: true
   memory: 1G 
   instances: 1
-  path: ./target/gs-actuator-service-0.1.0.jar
+  # mvn build
+  # path: ./target/gs-actuator-service-0.1.0.jar
+  path: ./build/libs/gs-actuator-service-initial.jar

@@ -236,9 +236,12 @@ $ curl localhost:9001/actuator/health
 {"status":"UP"}
 ----
 
-== Test your application on Cloud Foundry
+== Delete application.properties
+   
+== build app
+$ ./gradlew clean build
 
-Using the Maven build `target/gs-actuator-service-0.1.0.jar`, *without* the `application.properties` file applying port 9000, push the app.
+== Test your application on Cloud Foundry
 
 Contents of `manifest.yml`:
 
@@ -249,7 +252,7 @@ applications:
   random-route: true
   memory: 1G
   instances: 1
-  path: ./target/gs-actuator-service-0.1.0.jar
+  path: ./build/libs/gs-actuator-service-initial.jar
 ----
 
 Push to cloud foundry:
