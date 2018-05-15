@@ -237,6 +237,7 @@ $ curl localhost:9001/actuator/health
 ----
 
 == Delete application.properties
+   Verify that application.properties file is removed
    
 == build app
 $ ./gradlew clean build
